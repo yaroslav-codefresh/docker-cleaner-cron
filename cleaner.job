@@ -1,0 +1,1 @@
+*/15 * * * * bash /cleaner/clean.sh >> /cleaner/cleaner.log
